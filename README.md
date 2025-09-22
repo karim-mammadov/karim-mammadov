@@ -1,7 +1,6 @@
 
-<a href="https://github.com/karim-mammadov" style="background-color:white; color:black; padding:5px 10px; border-radius:5px; text-decoration:none;">
-Hi, I'm Mammadov Karim
-</a>
++ Hi, I'm Mammadov Karim
+
 
 
 
