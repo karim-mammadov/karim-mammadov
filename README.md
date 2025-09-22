@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi , I'm Mammadov Karim
+🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇦🇿 From Azerbaijan
 
-<!--
-**karim-mammadov/karim-mammadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Field | 💬 Description
+--- | ---
+Work | Data Science Projects: Machine Learning, Predictive Modeling, and AI-Driven Analytics
+Learning | Machine Learning, Deep Learning, and AI Integration
+Help | Model Training & Optimization
+Ask | AI/ML, Data Science, or Python Programming
+Email | karim.mamedov@outlook.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/karim-mamedov/) | [Kaggle](https://www.kaggle.com/karimmammadov1) | [Instagram](https://www.instagram.com/mamedoov.k/)
