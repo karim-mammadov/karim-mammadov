@@ -16,4 +16,6 @@
 
 
 🌐 Connect with Me
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fturbologo.com%2Farticles%2Fthe-linkedin-logo-evolution-of-a-professional-icon%2F&psig=AOvVaw1T8HtEJRHkjxJA3x_21-H0&ust=1758634450673000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiWrYK-7I8DFQAAAAAdAAAAABAE](https://www.linkedin.com/in/karim-mamedov/) | [Kaggle](https://www.kaggle.com/karimmammadov1) | [Instagram](https://www.instagram.com/mamedoov.k/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/karim-mamedov/)
+[![Kaggle](https://cdn-icons-png.flaticon.com/24/888/888853.png)](https://www.kaggle.com/karimmammadov1)
+[![Instagram](https://cdn-icons-png.flaticon.com/24/174/174855.png)](https://www.instagram.com/mamedoov.k/)
