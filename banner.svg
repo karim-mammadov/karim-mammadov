@@ -1,19 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
-  <style>
-    .bg { fill: #ffffff; }           /* White background */
-    text { font: 700 36px 'Arial', sans-serif; fill: #000000; } /* Black text */
-  </style>
-  <rect width="100%" height="100%" class="bg" />
   <defs>
+    <!-- Blur filter -->
+    <filter id="blurFilter">
+      <feGaussianBlur stdDeviation="3" /> <!-- 3px blur -->
+    </filter>
     <mask id="m">
       <rect x="0" y="0" width="0" height="120" fill="#fff">
         <animate attributeName="width" from="0" to="900" dur="3s" fill="freeze" />
       </rect>
     </mask>
   </defs>
-  
+
+  <!-- Background with opacity and blur -->
+  <rect width="100%" height="100%" fill="#ffffff" fill-opacity="0.4" filter="url(#blurFilter)" />
+
   <!-- Centered animated text -->
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" mask="url(#m)">
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" mask="url(#m)"
+        font-family="Arial, sans-serif" font-weight="700" font-size="36" fill="#000000">
     Hi 👋, I'm Karim
   </text>
 </svg>
