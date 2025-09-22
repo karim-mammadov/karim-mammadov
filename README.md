@@ -16,4 +16,4 @@
 
 
 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/karim-mamedov/) | [Kaggle](https://www.kaggle.com/karimmammadov1) | [Instagram](https://www.instagram.com/mamedoov.k/)
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fturbologo.com%2Farticles%2Fthe-linkedin-logo-evolution-of-a-professional-icon%2F&psig=AOvVaw1T8HtEJRHkjxJA3x_21-H0&ust=1758634450673000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiWrYK-7I8DFQAAAAAdAAAAABAE](https://www.linkedin.com/in/karim-mamedov/) | [Kaggle](https://www.kaggle.com/karimmammadov1) | [Instagram](https://www.instagram.com/mamedoov.k/)
