@@ -1,5 +1,5 @@
+![Banner](./banner.svg)
 
-+ Hi, I'm Karim
 
 🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇦🇿 From Azerbaijan
 
