@@ -1,4 +1,4 @@
-![Banner](./banner.svg)
+![Banner](./bannerr.svg)
 
 
 🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇦🇿 From Azerbaijan
