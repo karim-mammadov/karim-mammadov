@@ -1,8 +1,5 @@
 
-+ Hi, I'm Mammadov Karim
-
-
-
++ Hi, I'm Karim
 
 🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇦🇿 From Azerbaijan
 
