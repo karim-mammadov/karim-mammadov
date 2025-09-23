@@ -12,11 +12,22 @@
 | --- | --- | --- | --- | --- |
 | AI-Based Automated Platform for Pets Breed Recognition and E-Service Hub | Machine Learning, Deep Learning, and AI Integration | Model Training & Optimization | Python, AI/ML, or Web Development | [karim.mamedov@outlook.com](mailto:karim.mamedov@outlook.com) |
 
-🌐 **Connect with Me**  
+---
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/karim-mamedov/)  
-[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/4/43/Kaggle_logo.png)](https://www.kaggle.com/karimmammadov1)
-[![Instagram](https://cdn-icons-png.flaticon.com/24/174/174855.png)](https://www.instagram.com/mamedoov.k/)
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/karim-mamedov/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="30" height="30" />
+  </a>
+  <a href="https://www.kaggle.com/karimmammadov1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Kaggle_logo.png" alt="Kaggle" width="30" height="30" />
+  </a>
+  <a href="https://www.instagram.com/mamedoov.k/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/174/174855.png" alt="Instagram" width="30" height="30" />
+  </a>
+</p>
+
+---
 
 📄 **You can download my CV here to get a closer look.** 
 
