@@ -42,7 +42,7 @@
 
 📄 **You can download my CV here to get a closer look.** 
 
-[📄 Download CV](https://raw.githubusercontent.com/karim-mammadov/karim-mammadov/main/cv-karim-mammadov.pdf.pdf)
+[Download CV](https://raw.githubusercontent.com/karim-mammadov/karim-mammadov/main/cv-karim-mammadov.pdf.pdf)
 
 
 </div>
