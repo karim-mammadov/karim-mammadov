@@ -18,4 +18,7 @@
 [![Kaggle](https://www.iconfinder.com/icons/4373210/kaggle_logo_logos_icon)](https://www.kaggle.com/karimmammadov1)
 [![Instagram](https://cdn-icons-png.flaticon.com/24/174/174855.png)](https://www.instagram.com/mamedoov.k/)
 
+[📄 Download CV](https://raw.githubusercontent.com/karim-mammadov/karim-mammadov/main/cv-karim-mammadov.pdf.pdf)
+
+
 </div>
