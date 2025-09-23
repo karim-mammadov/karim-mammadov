@@ -3,8 +3,19 @@
 ![Banner](./bannerr.svg)
 
 🚀 **AI Developer | 🧠 Machine Learning Enthusiast | 🇦🇿 From Azerbaijan**
+---
 
-![Profile Views](https://camo.githubusercontent.com/45e7b3869867b3e069657b06783723346cbb8e2cf700d73ec8e164ed7f7a034f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4661697a7962726f266c6162656c3d50726f66696c65253230566965777326636f6c6f723d306537356236267374796c653d666c6174)
+<h3 align="center">🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇦🇿 From Azerbaijan</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karim-mammadov&label=Profile%20Views&color=0e75b6&style=flat" alt="karim-mammadov" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=karim-mammadov&theme=algolia&no-frame=true&margin-w=10&column=6&title=Stars,Followers,Commits,Issues,PullRequest,Repositories" />
+  </a>
+</p>
 
 ---
 
@@ -13,7 +24,7 @@
 | ![🔧 Work](https://img.shields.io/badge/-Work-00bcd4?style=for-the-badge&logo=github) | **Data Science Projects: Predictive Modeling, Machine Learning, and AI-Driven Analytics** |
 | ![💻 Learning](https://img.shields.io/badge/-Learning-673ab7?style=for-the-badge&logo=python&logoColor=white) | **AI Engineering, Machine Learning, and Deep Learning** |
 | ![🛠 Help](https://img.shields.io/badge/-Help-f44336?style=for-the-badge&logo=opsgenie&logoColor=white) | **Model Training & Optimization** |
-![❓ Ask](https://img.shields.io/badge/-❓-4caf50?style=for-the-badge&logo=stackoverflow&logoColor=white) | **AI/ML, Data Science, or Python Programming** |
+| ![❓ Ask](https://img.shields.io/badge/-Ask-4caf50?style=for-the-badge&logo=stackoverflow&logoColor=white) | **AI/ML, Data Science, or Python Programming** |
 | ![📧 Email](https://img.shields.io/badge/-Email-607d8b?style=for-the-badge&logo=gmail&logoColor=white) | **[karim.mamedov@outlook.com](mailto:karim.mamedov@outlook.com)** |
 
 
