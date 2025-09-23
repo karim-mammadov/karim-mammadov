@@ -1,7 +1,7 @@
 <div align="center">
----
+
 <h1 align="center"><img src="./bannerr.svg" alt="Hi , I'm Karim" /></h1>
----
+
 
 <h3 align="center">📊 About Me</h3>
 
