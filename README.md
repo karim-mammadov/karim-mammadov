@@ -15,10 +15,11 @@
 🌐 **Connect with Me**  
 
 [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/karim-mamedov/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Kaggle_logo.png" width="30"/>](https://www.kaggle.com/karimmammadov1)
+[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/4/43/Kaggle_logo.png)](https://www.kaggle.com/karimmammadov1)
 [![Instagram](https://cdn-icons-png.flaticon.com/24/174/174855.png)](https://www.instagram.com/mamedoov.k/)
 
 📄 **You can download my CV here to get a closer look.** 
+
 [📄 Download CV](https://raw.githubusercontent.com/karim-mammadov/karim-mammadov/main/cv-karim-mammadov.pdf.pdf)
 
 
