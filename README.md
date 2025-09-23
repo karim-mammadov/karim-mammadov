@@ -4,7 +4,15 @@
 
 ---
 
-<h3 align="center">**🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇦🇿 From Azerbaijan**</h3>
+<h3 align="center">📊 About Me</h3>
+
+<p align="center">
+A Data Scientist who leverages advanced analytical and statistical techniques to uncover actionable insights from complex datasets. Skilled in building predictive models and applying machine learning to solve real-world problems. A specialist actively involved in driving data-driven decisions that optimize business outcomes and innovation.
+</p>
+
+---
+
+<h3 align="center">🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇦🇿 From Azerbaijan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karim-mammadov&label=Profile%20Views&color=0e75b6&style=flat" alt="karim-mammadov" />
