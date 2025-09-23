@@ -1,7 +1,6 @@
 <div align="center">
-
-![Banner](./bannerr.svg)
-
+---
+<h1 align="center"><img src="./bannerr.svg" alt="Hi , I'm Karim" /></h1>
 ---
 
 <h3 align="center">📊 About Me</h3>
@@ -50,6 +49,9 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
 📄 **You can download my CV here to get a closer look.** 
 
 [Download CV](https://raw.githubusercontent.com/karim-mammadov/karim-mammadov/main/cv-karim-mammadov.pdf.pdf)
+
+
+---
 
 
 </div>
