@@ -15,12 +15,12 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/karim-mamedov/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://www.kaggle.com/karimmammadov1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Kaggle_logo.png" alt="Kaggle" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30" height="30" />
   </a>
   <a href="https://www.instagram.com/mamedoov.k/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/174/174855.png" alt="Instagram" width="30" height="30" />
@@ -28,6 +28,7 @@
 </p>
 
 ---
+
 
 📄 **You can download my CV here to get a closer look.** 
 
