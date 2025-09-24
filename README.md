@@ -41,9 +41,10 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
   <a href="https://www.instagram.com/mamedoov.k/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/24/174/174855.png" alt="Instagram" width="30" height="30" />
   </a>
-  <a href="https://huggingface.co/mammadovkarimN1" target="_blank" style="margin-left:8px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" width="30" height="30" />
+  <a href="https://huggingface.co/mammadovkarimN1" target="_blank">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/raw/main/hf-logo-with-title.svg" alt="Hugging Face" width="30" height="30" />
 </a>
+
 </p>
 
 ---
