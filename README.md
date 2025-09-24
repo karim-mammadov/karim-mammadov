@@ -42,7 +42,7 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
     <img src="https://cdn-icons-png.flaticon.com/24/174/174855.png" alt="Instagram" width="30" height="30" />
   </a>
   <a href="https://huggingface.co/mammadovkarimN1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/huggingface/brand-assets/logo/hf-logo-blue.svg" alt="Hugging Face" width="30" height="30" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Hf-logo-with-title.svg" alt="Hugging Face" width="30" height="30" />
 </a>
 
 </p>
