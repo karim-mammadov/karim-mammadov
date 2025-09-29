@@ -52,7 +52,7 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
 
 📄 **You can download my CV here to get a closer look.** 
 
-[Download CV](https://raw.githubusercontent.com/karim-mammadov/karim-mammadov/main/cv-karim-mammadov.pdf.pdf)
+[Download CV](https://github.com/karim-mammadov/karim-mammadov/blob/main/_cv_mammdov_karim.pdf.pdf)
 
 
 ---
