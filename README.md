@@ -60,6 +60,11 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
   </a>
   
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/mammadovkarimN1" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
+  </a>
+  
   <!-- Instagram -->
   <a href="https://www.instagram.com/mamedoov.k/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
@@ -70,6 +75,7 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
