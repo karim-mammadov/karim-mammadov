@@ -54,7 +54,6 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
 
 [⬇️ Download CV](https://github.com/karim-mammadov/karim-mammadov/blob/main/CV_mammadov_karim.pdf.pdf)
 
-[⬇️ Download CV](https://github.com/karim-mammadov/karim-mammadov/raw/main/CV_mammadov_karim.pdf?download=)
 
 ---
 
