@@ -58,6 +58,10 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karim-mammadov&show_icons=true&theme=radical" alt="Karim's GitHub stats" />
+</p>
+
 ---
 
 
