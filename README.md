@@ -30,24 +30,6 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/karim-mamedov/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="30" height="30" />
-  </a>
-  <a href="https://www.kaggle.com/karimmammadov1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30" height="30" />
-  </a>
-  <a href="https://www.instagram.com/mamedoov.k/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/174/174855.png" alt="Instagram" width="30" height="30" />
-  </a>
-  <a href="https://huggingface.co/mammadovkarimN1" target="_blank">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Hf-logo-with-title.svg" alt="Hugging Face" width="130" height="130" />
-</a>
-
-</p>
----
-
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
   <!-- LinkedIn -->
@@ -75,8 +57,6 @@ A Data Scientist who leverages advanced analytical and statistical techniques to
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
 
 ---
 
